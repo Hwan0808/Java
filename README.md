@@ -3,8 +3,8 @@
 
 
 <p align="center"> 
-         <B>WebProgramming _ html,css,javascript</B><br><br>
-         Sungkonghoe University WebProgramming in 2019 
+         <B>Java _ eclipse</B><br><br>
+          KNUT University Java in 2021 
 </p>
 
 
