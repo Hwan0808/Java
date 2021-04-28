@@ -4,7 +4,7 @@
 
 <p align="center"> 
          <B>Java _ eclipse</B><br><br>
-          KNUT University Java in 2021 
+          Korea National University of Transportation Java in 2021 
 </p>
 
 
